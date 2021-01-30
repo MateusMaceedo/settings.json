@@ -1,2 +1,2 @@
 # settings.json
-Setupe VS Code
+Setup VS Code
