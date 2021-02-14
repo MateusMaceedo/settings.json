@@ -10,9 +10,11 @@
 
 <div class="LinuxOrg">
 
-<img src="https://www.linux.org/images/logo.png" max-width= 100% max-height=200px alt="Linux"> 
+<img src="https://www.linux.org/images/logo.png" max-width= 100% max-height=200px 
+alt="Linux" vertical-align: bottom heigtht: auto> 
 
 <link>site oficial:https://www.linux.org/</link>
+
 </div>
 
 ## Passoa a passo para instação e configuração para o ambiente
