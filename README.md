@@ -13,7 +13,7 @@
 <img src="https://www.linux.org/images/logo.png" max-width= 100% max-height=200px 
 alt="Linux" vertical-align: bottom heigtht: auto> 
 
-<link>site oficial:https://www.linux.org/</link>
+><link>site oficial:https://www.linux.org/</link>
 
 </div>
 
@@ -53,3 +53,4 @@ Obs.: Reiniciar o computador
 - Definir uma distro instalada para usar WSL2: wsl --set-version (distro) 2
 - Exibir os comandos e menu de ajuda do WSL: wsl help
 >Obs.: executar os comandos no PowerShell como administrador.
+
