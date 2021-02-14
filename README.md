@@ -1,12 +1,14 @@
 # Settings.json
 
-Configuração de ambiente no VS code, para desenvolvimento FrontEnd e BackEnd.
+>Configuração de ambiente no VS code, para desenvolvimento FrontEnd e BackEnd.
 
 - Plugins VS Code
 - Docker
 - Alias
 
 # Settings.json - WSL2 integrado com Linux
+
+<img src="https://www.oficinadanet.com.br/imagens/post/24690/linux-windows.png" width="110" height="46" alt="Linux">
 
 ## Passoa a passo para instação e configuração para o ambiente
 
