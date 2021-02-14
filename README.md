@@ -8,7 +8,11 @@
 
 # Settings.json - WSL2 integrado com Linux
 
-<img src="https://www.linux.org/images/logo.png" max-width= 100% max-height=200px alt="Linux">
+<div class="LinuxOrg">
+
+<img src="https://www.linux.org/images/logo.png" max-width= 100% max-height=200px alt="Linux"> 
+<a>site oficial:https://www.linux.org/</a>
+</div>
 
 ## Passoa a passo para instação e configuração para o ambiente
 
