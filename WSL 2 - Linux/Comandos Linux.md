@@ -2,12 +2,12 @@
 
 ## Dicas:
 
->1) Para listar todos os comandos disponiveis num terminal basta apertar TAB duas vezes, o terminal vai pergunta se você quer ver todos os comandos. Display all 3466 possibilities? (y or n)
+-1) Para listar todos os comandos disponiveis num terminal basta apertar TAB duas vezes, o terminal vai pergunta se você quer ver todos os comandos. Display all 3466 possibilities? (y or n)
 
 Então basta aperta y ( yes-sim ) e todos os comandos serão listados, se apertar n ( no-não ) sera cancelado a listagem.
 o numero de "possibilities" pode variar.
 
->2) Para saber mais sobre o comando basta adicionar --help na frente exemplo:
+-2) Para saber mais sobre o comando basta adicionar --help na frente exemplo:
 
 wget --help
 
@@ -15,7 +15,7 @@ lspci --help
 
 obs: geralmente os helps são em ingles.
 
->3) O terminal tem sensibilidade com maiúsculas e minúsculas, tudo tem que ser digitado da maneira exata de como é escrito.
+-3) O terminal tem sensibilidade com maiúsculas e minúsculas, tudo tem que ser digitado da maneira exata de como é escrito.
 
 >1. ls (lista o conteúdo de um diretório)
 Exemplo: $ ls
