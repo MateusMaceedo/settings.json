@@ -1,5 +1,7 @@
 # Settings.json
 
+![CI](https://github.com/lukemorales/ubuntu-dev-setup/workflows/CI/badge.svg)
+
 >Configuração de ambiente no VS code, para desenvolvimento FrontEnd e BackEnd.
 
 - Plugins VS Code
