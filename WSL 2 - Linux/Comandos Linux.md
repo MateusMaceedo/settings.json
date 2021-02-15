@@ -2,7 +2,7 @@
 
 ## Dicas:
 
--1) Para listar todos os comandos disponiveis num terminal basta apertar TAB duas vezes, o terminal vai pergunta se você quer ver todos os comandos. Display all 3466 possibilities? (y or n)
+=1) Para listar todos os comandos disponiveis num terminal basta apertar TAB duas vezes, o terminal vai pergunta se você quer ver todos os comandos. Display all 3466 possibilities? (y or n)
 
 Então basta aperta y ( yes-sim ) e todos os comandos serão listados, se apertar n ( no-não ) sera cancelado a listagem.
 o numero de "possibilities" pode variar.
