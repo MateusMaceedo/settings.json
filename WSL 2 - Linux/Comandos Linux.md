@@ -1,6 +1,6 @@
-## Principais Comandos do Terminal no LINUX
+# Principais Comandos do Terminal no LINUX
 
-# Dicas:
+## Dicas:
 
 >1) Para listar todos os comandos disponiveis num terminal basta apertar TAB duas vezes, o terminal vai pergunta se você quer ver todos os comandos. Display all 3466 possibilities? (y or n)
 
